@@ -15,7 +15,7 @@ button_lit_image_path = current_folder / "images" / "button_lit.png"
 buttons = [
     [
         sg.Button(
-            image_filename=button_grey_image_path, key=f"-BUTTON-{row}-{col}"
+            image_filename=button_grey_image_path, key=f"-BUTTON-{row}-{col}-"
         )
         for col in range(5)
     ]
