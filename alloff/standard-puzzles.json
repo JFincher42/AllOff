@@ -1,0 +1,7 @@
+{
+    "puzzle-files": [
+        "level-1-standard-puzzles.json",
+        "level-2-standard-puzzles.json",
+        "level-3-standard-puzzles.json"
+    ]
+}
